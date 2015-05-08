@@ -1,0 +1,110 @@
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\shanuShoppingCart_Angular.dll.config
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\shanuShoppingCart_Angular.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\shanuShoppingCart_Angular.pdb
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Antlr3.Runtime.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\EntityFramework.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\EntityFramework.SqlServer.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Google.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Newtonsoft.Json.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Owin.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Helpers.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Mvc.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Optimization.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Razor.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.Deployment.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.Razor.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\WebGrease.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Helpers.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Mvc.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Optimization.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Razor.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.Deployment.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.Razor.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Antlr3.Runtime.pdb
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Newtonsoft.Json.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\EntityFramework.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\EntityFramework.SqlServer.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Google.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\obj\Debug\shanuShoppingCart_Angular.csprojResolveAssemblyReference.cache
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\obj\Debug\shanuShoppingCart_Angular.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\obj\Debug\shanuShoppingCart_Angular.pdb
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\shanuShoppingCart_Angular.dll.config
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\shanuShoppingCart_Angular.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\shanuShoppingCart_Angular.pdb
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Antlr3.Runtime.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\EntityFramework.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\EntityFramework.SqlServer.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.Core.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.Owin.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Host.SystemWeb.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Cookies.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Facebook.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Google.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.OAuth.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Twitter.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Web.Infrastructure.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Newtonsoft.Json.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Owin.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Helpers.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Mvc.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Optimization.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Razor.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.Deployment.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.Razor.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\WebGrease.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Helpers.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Mvc.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Optimization.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.Razor.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.Deployment.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\System.Web.WebPages.Razor.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Antlr3.Runtime.pdb
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Newtonsoft.Json.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\EntityFramework.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\EntityFramework.SqlServer.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.Core.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.Owin.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Host.SystemWeb.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Facebook.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Cookies.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.OAuth.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Google.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.Twitter.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\obj\Debug\shanuShoppingCart_Angular.csprojResolveAssemblyReference.cache
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\obj\Debug\shanuShoppingCart_Angular.dll
+R:\shanuShoppingCartSRC\ShanuSchoppingCart_WCF\shanuShoppingCart_Angular\obj\Debug\shanuShoppingCart_Angular.pdb
